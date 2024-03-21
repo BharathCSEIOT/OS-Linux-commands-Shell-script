@@ -616,9 +616,6 @@ First arg. is 1
 Second arg. is 2
 Third arg. is 3
 Fourth arg. is
-The $@ is 1 2 3
-The $\# is $#
-The $$ is 124
 
  
 ls file1
